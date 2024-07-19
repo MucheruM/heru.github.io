@@ -1,6 +1,7 @@
 body {
 	width: 100vw;
 	height: 100vh;
+	display: flex;
 }
 
 img {
@@ -9,4 +10,10 @@ img {
 
 p {
 	color: red;
+}
+
+nav {
+	display: flex;
+	flex-direction: row;
+	size: 2rem;
 }
