@@ -13,8 +13,6 @@ p {
 }
 
 nav {
-	display: flex;
-	flex-direction: row;
 	size: 2rem;
 }
 
